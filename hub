@@ -1,0 +1,5 @@
+local PlaceId = game.PlaceId
+
+if PlaceId == 6884319169 then -- Mic up
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/eboyfriends/rbx/main/MicUp'))()
+end
