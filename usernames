@@ -1,8 +1,10 @@
 {
   "eboyfriens": {
-    "DiscordId": 826626452492910600
+    "DiscordId": 826626452492910600,
+    "Role": "Owner"
   },
   "godnolyn": {
-    "DiscordId": 826626452492910600
+    "DiscordId": 826626452492910600,
+    "Role": "Owner"
   }
 }
