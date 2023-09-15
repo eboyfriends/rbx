@@ -1,11 +1,14 @@
 {
   "eboyfriens": {
-    "DiscordId": 826626452492910622
+    "DiscordId": 826626452492910600
   },
   "godnolyn": {
-    "DiscordId": 826626452492910622
+    "DiscordId": 826626452492910600
   },
   "BeastSlaya03": {
-    "DiscordId": 1110401432408031324
+    "DiscordId": 1110401432408031400
+  },
+  "test": {
+    "DiscordId": "123"
   }
 }
